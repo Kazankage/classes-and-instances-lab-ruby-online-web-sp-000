@@ -2,6 +2,6 @@ class Dog
   
 end
 
-ger = Dog.new 
-koda = Dog.new
-jhibli = Dog.new
+fido = Dog.new 
+snoopy = Dog.new
+lassie = Dog.new
